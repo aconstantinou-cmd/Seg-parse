@@ -1,5 +1,5 @@
 #!/bin/bash
-#test`
+
 if [[ $# -eq 0 ]] ; then
 	echo "This script parses grepable nmap input and formats it ready for a segmentation report"
     echo ""
